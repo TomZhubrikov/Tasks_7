@@ -1,0 +1,15 @@
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\7_practic\Add_Task_N364_\obj\Debug\net7.0\Add_Task_N364_.csproj.AssemblyReference.cache
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\7_practic\Add_Task_N364_\obj\Debug\net7.0\Add_Task_N364_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\7_practic\Add_Task_N364_\obj\Debug\net7.0\Add_Task_N364_.AssemblyInfoInputs.cache
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\7_practic\Add_Task_N364_\obj\Debug\net7.0\Add_Task_N364_.AssemblyInfo.cs
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\7_practic\Add_Task_N364_\obj\Debug\net7.0\Add_Task_N364_.csproj.CoreCompileInputs.cache
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\7_practic\Add_Task_N364_\bin\Debug\net7.0\Add_Task_N364_.exe
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\7_practic\Add_Task_N364_\bin\Debug\net7.0\Add_Task_N364_.deps.json
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\7_practic\Add_Task_N364_\bin\Debug\net7.0\Add_Task_N364_.runtimeconfig.json
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\7_practic\Add_Task_N364_\bin\Debug\net7.0\Add_Task_N364_.dll
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\7_practic\Add_Task_N364_\bin\Debug\net7.0\Add_Task_N364_.pdb
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\7_practic\Add_Task_N364_\obj\Debug\net7.0\Add_Task_N364_.dll
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\7_practic\Add_Task_N364_\obj\Debug\net7.0\refint\Add_Task_N364_.dll
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\7_practic\Add_Task_N364_\obj\Debug\net7.0\Add_Task_N364_.pdb
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\7_practic\Add_Task_N364_\obj\Debug\net7.0\Add_Task_N364_.genruntimeconfig.cache
+C:\Users\ArtZhubrikov\Desktop\ForGeneralDevelopment\GeekBrains\C#\7_practic\Add_Task_N364_\obj\Debug\net7.0\ref\Add_Task_N364_.dll
